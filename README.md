@@ -1,2 +1,2 @@
 # CS50
-Doing Harvard's program for Computing Science
+Doing Harvard's program for Computer Science
